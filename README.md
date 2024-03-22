@@ -1,4 +1,4 @@
-# Piano-using-Web
+# piano-for-web
 Mini-Piano made with the Web Triad (HTML, CSS and JavaScript).
 
 ![Screenshot](frontpage.png)
